@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\Minal-LiftSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\minal-liftsystem\\views\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:minal-liftsystem\\views\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|d:\\downloads\\minal-liftsystem\\minal-liftsystem\\views\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:minal-liftsystem\\views\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\MovingDownState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:Minal-LiftSystem\\States\\MovingDownState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Interfaces\\Idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:Minal-LiftSystem\\Interfaces\\Idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Interfaces\\ILift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:Minal-LiftSystem\\Interfaces\\ILift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\minal-liftsystem\\context\\doorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:minal-liftsystem\\context\\doorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\minal-liftsystem\\context\\lift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:minal-liftsystem\\context\\lift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|d:\\downloads\\minal-liftsystem\\minal-liftsystem\\interfaces\\idooridle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:minal-liftsystem\\interfaces\\idooridle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\minal-liftsystem\\interfaces\\idoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:minal-liftsystem\\interfaces\\idoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\minal-liftsystem\\states\\movingupstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:minal-liftsystem\\states\\movingupstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\minal-liftsystem\\states\\closedoorstate_g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:minal-liftsystem\\states\\closedoorstate_g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\minal-liftsystem\\states\\closedoorstate_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:minal-liftsystem\\states\\closedoorstate_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\minal-liftsystem\\db\\conn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:minal-liftsystem\\db\\conn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\minal-liftsystem\\states\\opendoorstate_g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:minal-liftsystem\\states\\opendoorstate_g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\minal-liftsystem\\states\\opendoorstate_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:minal-liftsystem\\states\\opendoorstate_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\OpenDoorState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Minal-LiftSystem\\States\\OpenDoorState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\minal-liftsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:minal-liftsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\ClosingDoorState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Minal-LiftSystem\\States\\ClosingDoorState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Views\\App.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3441CE-6035-40DA-8B36-2AD5D7CA8AC0}|Minal-LiftSystem\\Minal-LiftSystem.csproj|solutionrelative:Minal-LiftSystem\\Views\\App.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Views\\App.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\Views\\App.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Views\\App.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\Views\\App.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAwGEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:11:29.245Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Views\\App.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\Views\\App.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Views\\App.cs [Design]",
+              "RelativeToolTip": "Minal-LiftSystem\\Views\\App.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:08:56.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Conn.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\db\\Conn.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\db\\Conn.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\db\\Conn.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\db\\Conn.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwB0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:24:34.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OpenDoorState.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\OpenDoorState.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\States\\OpenDoorState.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\OpenDoorState.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\States\\OpenDoorState.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:05:03.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClosingDoorState.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\ClosingDoorState.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\States\\ClosingDoorState.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\ClosingDoorState.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\States\\ClosingDoorState.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:04:28.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDoorIdle.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Interfaces\\IDoorIdle.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\Interfaces\\IDoorIdle.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Interfaces\\IDoorIdle.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\Interfaces\\IDoorIdle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:04:42.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovingUpState.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\MovingUpState.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\States\\MovingUpState.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\MovingUpState.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\States\\MovingUpState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:03:50.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\App.config",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\App.config",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\App.config",
+              "RelativeToolTip": "Minal-LiftSystem\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T13:52:03.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OpenDoorState_G.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\OpenDoorState_G.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\States\\OpenDoorState_G.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\OpenDoorState_G.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\States\\OpenDoorState_G.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:34:50.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CloseDoorState_1.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\CloseDoorState_1.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\States\\CloseDoorState_1.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\CloseDoorState_1.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\States\\CloseDoorState_1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:33:41.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OpenDoorState_1.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\OpenDoorState_1.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\States\\OpenDoorState_1.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\OpenDoorState_1.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\States\\OpenDoorState_1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wCQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:26:41.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CloseDoorState_G.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\CloseDoorState_G.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\States\\CloseDoorState_G.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\CloseDoorState_G.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\States\\CloseDoorState_G.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:26:21.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lift.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Context\\Lift.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\Context\\Lift.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Context\\Lift.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\Context\\Lift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:17:55.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDoor.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Interfaces\\IDoor.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\Interfaces\\IDoor.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Interfaces\\IDoor.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\Interfaces\\IDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:04:39.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoorContext.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Context\\DoorContext.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\Context\\DoorContext.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Context\\DoorContext.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\Context\\DoorContext.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwDMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:04:35.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovingDownState.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\MovingDownState.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\States\\MovingDownState.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\States\\MovingDownState.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\States\\MovingDownState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:46:35.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Idle.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Interfaces\\Idle.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\Interfaces\\Idle.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Interfaces\\Idle.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\Interfaces\\Idle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:44:15.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILift.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Interfaces\\ILift.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\Interfaces\\ILift.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Interfaces\\ILift.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\Interfaces\\ILift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:44:07.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.Designer.cs",
+              "DocumentMoniker": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Views\\App.Designer.cs",
+              "RelativeDocumentMoniker": "Minal-LiftSystem\\Views\\App.Designer.cs",
+              "ToolTip": "D:\\Downloads\\Minal-LiftSystem\\Minal-LiftSystem\\Views\\App.Designer.cs",
+              "RelativeToolTip": "Minal-LiftSystem\\Views\\App.Designer.cs",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAAAHEBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:39:39.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

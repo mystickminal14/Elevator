@@ -1,0 +1,10 @@
+D:\Downloads\Minal-LiftSystem\Minal-LiftSystem\bin\Debug\Minal-LiftSystem.exe.config
+D:\Downloads\Minal-LiftSystem\Minal-LiftSystem\bin\Debug\Minal-LiftSystem.exe
+D:\Downloads\Minal-LiftSystem\Minal-LiftSystem\bin\Debug\Minal-LiftSystem.pdb
+D:\Downloads\Minal-LiftSystem\Minal-LiftSystem\obj\Debug\Minal-LiftSystem.csproj.AssemblyReference.cache
+D:\Downloads\Minal-LiftSystem\Minal-LiftSystem\obj\Debug\Minal_LiftSystem.Properties.Resources.resources
+D:\Downloads\Minal-LiftSystem\Minal-LiftSystem\obj\Debug\Minal-LiftSystem.csproj.GenerateResource.cache
+D:\Downloads\Minal-LiftSystem\Minal-LiftSystem\obj\Debug\Minal-LiftSystem.csproj.CoreCompileInputs.cache
+D:\Downloads\Minal-LiftSystem\Minal-LiftSystem\obj\Debug\Minal-LiftSystem.exe
+D:\Downloads\Minal-LiftSystem\Minal-LiftSystem\obj\Debug\Minal-LiftSystem.pdb
+D:\Downloads\Minal-LiftSystem\Minal-LiftSystem\obj\Debug\Minal_LiftSystem.App.resources
